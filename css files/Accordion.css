@@ -1,0 +1,52 @@
+.accordion{
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+.accordion >h1{
+    margin: auto;
+    font-size: 35px;
+    color: #3040D3;
+    max-width: 40%;
+    text-align: center;
+    line-height: 60px;
+    text-overflow:clip;
+}
+.accordion >h2{
+    margin: auto;
+    font-size: 20px;
+    max-width: 70%;
+    text-align: center;
+    line-height: 60px;
+    text-overflow:clip;
+    padding-bottom: 5%;
+}
+.accordion > h3{
+    margin: auto;
+    font-size: 32px;
+    text-overflow:clip;
+    line-height: 50px;
+    padding-top: 4%;
+    text-align:center;
+}
+.accordion > h4{
+    margin: auto;
+    font-size: 20px;
+    text-overflow:clip;
+    line-height: 50px;
+    padding-bottom: 3%;
+    text-align:center;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10%;
+}
+.accordionn{
+    display: flex;
+    justify-content: center;
+}
+.accordionn >img{
+    max-width: 100%;
+}

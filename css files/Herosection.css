@@ -1,0 +1,40 @@
+.hero{
+    display: flex;
+    padding-top: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+}
+.herotext{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10%;
+}
+.herotext >h1{
+    font-size: 32px;
+    line-height: 40px;
+    max-width: 80%;
+    padding-bottom: 4%;
+}
+.herotext >h2{
+    font-size: 12px;
+    max-width: 60%;
+    padding-bottom: 10%;
+}
+.herobtn{
+    display: flex;
+    gap:5%;
+    align-items: center;
+    padding-bottom: 20%;
+}
+.herobtn >button{
+    height: 40px;
+}
+
+.games{
+    display: flex;
+    gap:5%;
+}
+.games >img{
+    max-width: 30%;
+}

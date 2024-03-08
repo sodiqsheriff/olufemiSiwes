@@ -1,0 +1,37 @@
+.subsection{
+    display: flex;
+    flex-direction: column;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.subheading >h1{
+    margin: auto;
+    color:#3140D3;
+    font-size:40px;
+    line-height: 60px;
+    max-width: 70%;
+    text-align:center;
+}
+.subheading >h2{
+    margin:auto;
+    font-size: 15px;
+    line-height: 27px;
+    text-align:center;
+    padding-top: 2%;
+    max-width: 50%;
+}
+.subsects{
+    display: flex;
+    max-width: 100%;
+    padding-top: 5%;
+}
+.lastcnt{
+    display: flex;
+    align-self: center;
+}
+.lastcnt >img{
+    max-width: 100%;
+}
+#dwn{
+   padding-top: 85%;
+}
